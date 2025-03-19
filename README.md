@@ -100,37 +100,35 @@ print(y_prednew)
 
 ## Output:
 
-# READ AND DISPLAY
+### READ AND DISPLAY
 
 ![image](https://github.com/user-attachments/assets/e8f844eb-3848-4605-92ba-e6af3c09e209)
 
-# CATEGORIZING COLUMNS
+### CATEGORIZING COLUMNS
 
 ![image](https://github.com/user-attachments/assets/a34e5038-8eec-4e59-9faa-2e8381f45fa4)
 
-# LABELING COLUMNS AND DISPLAYING DATASET
+### LABELING COLUMNS AND DISPLAYING DATASET
 
 ![image](https://github.com/user-attachments/assets/35b55f28-4b52-4eb6-8f1a-0bfd5332bc80)
 
-# SEPERATE FEATURE X AND Y
+### SEPERATE FEATURE X AND Y
 
 ![image](https://github.com/user-attachments/assets/c7f84bae-3728-46e1-a6fb-1706cddb5eb9)
 
-# ACCURACY
+### ACCURACY
 
 ![image](https://github.com/user-attachments/assets/b4b0f4e6-3c1a-445e-be6f-4636d0e9ea54)
 
-# Y
+### Y
 
 ![image](https://github.com/user-attachments/assets/7213ffdd-d224-41db-bc2c-74fcfaaf5ee2)
 
 
-# Y_PREDNEW
+### Y_PREDNEW
 
 ![image](https://github.com/user-attachments/assets/fc2ebece-b25f-44c4-b3fd-2b3ec26bdd98)
 
-# RESULT:
-Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
 
 
